@@ -1,0 +1,35 @@
+c:\users\administrador\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\administrador\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\administrador\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\administrador\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\administrador\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AForge.Video.dll
+c:\users\administrador\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\administrador\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\C#\Video llamada_V1.0\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Universidad\C#\Video llamada_V1.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Universidad\C#\Video llamada_V1.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Universidad\C#\Video llamada_V1.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Universidad\C#\Video llamada_V1.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Universidad\C#\Video llamada_V1.0\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Universidad\C#\Video llamada_V1.0\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\C#\Video llamada_V1.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Universidad\C#\Video llamada_V1.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\C#\Video llamada_V1.0\WindowsFormsApplication2\bin\Debug\NAudio.dll
+D:\Universidad\C#\Video llamada_V1.0\WindowsFormsApplication2\bin\Debug\AForge.Video.DirectShow.dll
+D:\Universidad\C#\Video llamada_V1.0\WindowsFormsApplication2\bin\Debug\AForge.Video.dll
+C:\Users\Alcides\Desktop\Video llamada_V1.0\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Alcides\Desktop\Video llamada_V1.0\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Alcides\Desktop\Video llamada_V1.0\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Alcides\Desktop\Video llamada_V1.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Alcides\Desktop\Video llamada_V1.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Alcides\Desktop\Video llamada_V1.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Alcides\Desktop\Video llamada_V1.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Alcides\Desktop\Video llamada_V1.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Alcides\Desktop\Video llamada_V1.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Alcides\Desktop\Video llamada_V1.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Alcides\Desktop\Video llamada_V1.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Users\Alcides\Desktop\Video llamada_V1.0\WindowsFormsApplication2\bin\Debug\WinSound.dll
